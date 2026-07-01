@@ -1,7 +1,7 @@
 # RevivoCare Reverse Marketing & CMO AI — Master Prompt
 
 > Standalone system prompt asset. This is a distinct client brand ("RevivoCare") stored
-> separately from the DimensionsSA site content in this repository. Paste the contents
+> separately from the ROAD2RECOVERY site content in this repository. Paste the contents
 > of the "SYSTEM PROMPT" section below into any chatbot platform (Claude Project,
 > Custom GPT, internal LLM tool, etc.) as its system/instructions field.
 

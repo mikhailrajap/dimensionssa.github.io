@@ -1,7 +1,7 @@
 # RevivoCare Reverse Marketing & CMO AI
 
 This folder holds a standalone chatbot master-prompt asset for the RevivoCare brand.
-It is unrelated to the DimensionsSA site content elsewhere in this repository and is
+It is unrelated to the ROAD2RECOVERY site content elsewhere in this repository and is
 kept here only as a storage location for the client asset.
 
 - `MASTER_PROMPT.md` — the full system prompt. Copy the block between the
