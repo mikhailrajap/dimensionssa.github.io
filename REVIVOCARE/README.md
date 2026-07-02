@@ -8,6 +8,10 @@ kept here only as a storage location for the client asset.
   `=== SYSTEM PROMPT START ===` / `=== SYSTEM PROMPT END ===` markers into any chatbot
   platform (Claude Project, Custom GPT, internal tool, etc.) to configure it as
   RevivoCare's Reverse Marketing Strategist / CMO AI.
+- `CUSTOM_GPT_INSTRUCTIONS.txt` — a condensed version of the same prompt (~6.8k
+  characters), sized to fit inside OpenAI's Custom GPT Instructions field (8,000
+  character limit). Use this one specifically when building the Custom GPT; use
+  `MASTER_PROMPT.md` for platforms without a length limit (e.g. Claude Projects).
 
 No live chatbot UI is included — this is a prompt-only asset. If you want it wired up
 as an interactive chatbot on this site (or elsewhere), that's a separate follow-up task.
